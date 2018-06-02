@@ -214,7 +214,17 @@ img
 }
 
 
-h9{
+h8{
     font-size: 16pt; 
 font-style: bold;
+color:  #f7527a;
+}
+
+h9{
+    color: #a4d25b;
+}
+h10{
+    font-size: 16pt; 
+    font-style: bold;
+    color:  #f7527a;  
 }
